@@ -1,0 +1,5 @@
+WinDjView (电子图书阅读) v0.41 绿色特别版 
+一个电子图书阅读软件，可以阅读 .DjVu 和 .DjV 格式的文件。 
+
+无需安装，可直接解压缩至任意目录。其中 WinDjView.exe 为英文原版，WinDjViewSC.dll 为简体中文语言包，运行 WinDjView 后，从菜单中依次选择“View”－“Language”－“简体中文”可转换为简体中文语言环境
+
